@@ -1,6 +1,5 @@
 # Cloud-Protection-Made-Easy-Implementing-Microsoft-Azure-Backup
-
- >>>> Create a Virtual Machine 
+>>>> # Create a Virtual Machine <<<<
 ![Screenshot 2023-02-26 095222](https://user-images.githubusercontent.com/113555417/221438577-380be7fd-c3b1-4c05-bab2-a7df51530661.jpg)
 ![Screenshot 2023-02-26 095300](https://user-images.githubusercontent.com/113555417/221438579-82dff73e-5c72-4070-a51f-879db4f19cad.jpg)
 ![Screenshot 2023-02-26 095331](https://user-images.githubusercontent.com/113555417/221438580-1a0f3170-9fa9-422e-982e-307bd0a465a4.jpg)
@@ -16,22 +15,23 @@
  >>>> # IIS Install <<<<
 ![Screenshot 2023-02-26 100200](https://user-images.githubusercontent.com/113555417/221438659-79d429a7-2139-4484-9c2b-04f0b39bb853.jpg)
 ![Screenshot 2023-02-26 100401](https://user-images.githubusercontent.com/113555417/221438660-87a71482-6003-4d1e-8bb1-099c7f45beea.jpg)
+
 >>>> # Create folders and file for checking backup <<<<
 ![Screenshot 2023-02-26 100438](https://user-images.githubusercontent.com/113555417/221438664-406a53cd-985a-4388-8bb2-997d55b707cb.jpg)
 
->>>>  # Click Backup and create  backup policy <<<<
 ![Screenshot 2023-02-26 100532](https://user-images.githubusercontent.com/113555417/221438677-41ea35e9-fb09-4093-b8d9-dd46b804acc3.jpg)
 
+>>>>  # Click Backup and create  backup policy <<<<
 ![Screenshot 2023-02-26 100823](https://user-images.githubusercontent.com/113555417/221438750-52bea9ae-1c47-4742-9e4a-45bf95accbc4.jpg)
 ![Screenshot 2023-02-26 100905](https://user-images.githubusercontent.com/113555417/221438753-4bce8737-c413-4bd1-9212-1281c79328a8.jpg)
 
->>>> # Backup OverView <<<< 
 ![Screenshot 2023-02-26 101231](https://user-images.githubusercontent.com/113555417/221438756-365965a2-abc6-469e-8cae-50b216c1bb63.jpg)
 
- # Backup now <<<<
+ >>>>  # Click Backup now <<<<
  
 ![Screenshot 2023-02-26 101321](https://user-images.githubusercontent.com/113555417/221438757-e1e2ff78-be0b-4488-b54c-fcbc0bedb17b.jpg)
 ![Screenshot 2023-02-26 101348](https://user-images.githubusercontent.com/113555417/221438758-8cc66bdc-ae3b-49c3-9b1c-4d55b596de96.jpg)
+
 >>>> # Backup Job <<<<
 ![Screenshot 2023-02-26 101410](https://user-images.githubusercontent.com/113555417/221438759-6f3c9df9-ef1d-42cc-a896-0bc1b6208be7.jpg)
 ![Screenshot 2023-02-26 101434](https://user-images.githubusercontent.com/113555417/221438761-5c43c3f3-b0d6-47eb-86ad-be90ab47c8fc.jpg)
@@ -68,17 +68,17 @@
 ![Screenshot 2023-02-26 115355](https://user-images.githubusercontent.com/113555417/221438887-5b09f800-c6c1-43d1-9f1c-f01d1c8edc8f.jpg)
 ![Screenshot 2023-02-26 121514](https://user-images.githubusercontent.com/113555417/221438890-384e740e-1635-43fc-88c1-335f7fc9f72a.jpg)
 
->>>> # Start Virtual Machine <<<<
+>>>> # After Completing Backup Start Virtual Machine <<<<
 ![Screenshot 2023-02-26 121548](https://user-images.githubusercontent.com/113555417/221438898-eb37fcd9-5812-4558-a8a6-1f7ce6f2e158.jpg)
 ![Screenshot 2023-02-26 121610](https://user-images.githubusercontent.com/113555417/221438900-c8d9d284-76df-44e9-ae86-12f145a45c25.jpg)
 
->>>> # Check Server running or not <<<<
+>>>> # Check Server running or not through public Ip address <<<<
 ![Screenshot 2023-02-26 121737](https://user-images.githubusercontent.com/113555417/221438915-f09e9514-d799-4e2b-8acb-34d9e6672b1a.jpg)
 >>>> Remote Desktop connection <<<<
 ![Screenshot 2023-02-26 121753](https://user-images.githubusercontent.com/113555417/221438920-620c9ed4-5653-4cb3-bd52-392746f33d50.jpg)
 ![Screenshot 2023-02-26 121815](https://user-images.githubusercontent.com/113555417/221438921-dc4e671e-5344-4d26-a3e5-4a90a97a3df8.jpg)
 
->>>> # Check Our backup <<< 
+>>>> # Check backup <<< 
 ![Screenshot 2023-02-26 121910](https://user-images.githubusercontent.com/113555417/221438922-5ca19d60-a275-4405-814e-f442f41f1a6a.jpg)
 ![Screenshot 2023-02-26 122011](https://user-images.githubusercontent.com/113555417/221438923-3a3728a7-f2c3-4a79-a807-5762a4e9d97c.jpg)
 ![Screenshot 2023-02-26 122052](https://user-images.githubusercontent.com/113555417/221438924-b5c38e86-18a0-41ec-8bb6-edfb410a2060.jpg)
